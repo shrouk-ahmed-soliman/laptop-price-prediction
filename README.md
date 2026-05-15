@@ -32,19 +32,6 @@ The dataset (`laptop2.csv`) contains information on 1,303 laptops, including:
 - **Ppi:** Pixels Per Inch (calculated from resolution and screen size)
 - **Price:** Target variable (Price in local currency)
 
-## Installation and Usage
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/laptop-price-predictor.git
-   ```
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run the Notebook:**
-   Open `Laptop_Price_Prediction.ipynb` in Jupyter Notebook or Google Colab to see the full analysis and model training.
-
 ## Results
 
 The models were evaluated using R-squared and Mean Squared Error (MSE) metrics. The project demonstrates how different features impact the price and which models perform best for this specific regression task.
